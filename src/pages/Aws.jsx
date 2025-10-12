@@ -9,6 +9,7 @@ const Aws = () => {
         <img 
             src="https://clarusway.com/wp-content/uploads/elementor/thumbs/Aws-Solution-Architech-1-pmxc3z6r0ibsy5uixyzfrgrdilrq8nu5yid937d8w8.jpg"
             alt=""
+            className="img-fluid"
         />
         <div className="container mb-5">
             <button className="btn btn-outline-warning btn-light mt-4 mb-4">Learn More</button>

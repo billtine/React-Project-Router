@@ -10,6 +10,7 @@ const FullStack = () => {
       <img
         src="https://clarusway.com/wp-content/uploads/elementor/thumbs/v1-Fullstack-developer-pqnf31gbxlt9gholzgwtsxya1abhwiwulezoqna3wo.jpg"
         alt=""
+        className="img-fluid"
       />
       <div className="container mb-5">
         <button className="btn btn-outline-success btn-light mt-4 mb-4">Learn More</button>
